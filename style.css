@@ -1,0 +1,97 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color:blanchedalmond;
+    text-align: center;
+    background-image: url("background.png");
+}
+.gameboard{
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    margin-top:10px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 4px solid silver;
+    border-style:groove;
+}
+div div{
+    width: 30px;
+    height: 30px;
+}
+div .alien{
+    background-image: url("alien.png");
+}
+div .alien2{
+    background-image: url("alien2.png");
+}
+div .alien3{
+    background-image: url("alien3.png");
+}
+div .shooter{
+    background-image: url("ship.png");
+}
+div .shot{
+    background-image: url("shot.png");
+}
+div .shot1{
+    background-image: url("shot1.png");
+}
+div .shot2{
+    background-image: url("shot2.png");
+}
+div .shot3{
+    background-image: url("shot3.png");
+}
+div .shot4{
+    background-image: url("shot4.png");
+}
+div .shot5{
+    background-image: url("shot5.png");
+}
+div .shot6{
+    background-image: url("shot6.png");
+}
+div .shot7{
+    background-image: url("shot7.png");
+}
+div .shot8{
+    background-image: url("shot8.png");
+}
+div .shot9{
+    background-image: url("shot9.png");
+}
+button{
+    background-color:blanchedalmond ;
+    height:50px;
+    width: 100px;
+    margin: auto;
+    margin-top: 10px;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    border: none;
+}
+div .boom{
+    background-image: url("explosion.png");
+}
+div .laser{
+    background-image: url("bullets.png");
+}
+span{
+    display:table-cell;
+    vertical-align:middle;
+    font-size: medium;
+    font-weight: bold;
+    align-self: center;
+}
+#button_row{
+    display: flex;
+    align-content: space-between;
+}
+
+#header{
+    margin: auto;
+    display:flex;
+    justify-content:space-evenly;
+}
