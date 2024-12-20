@@ -8,6 +8,8 @@ In Space Invader, every moment is a pulse-pounding test of skill, strategy, and 
 
 Will you rise as humanity’s hero, or will the galaxy fall to the invaders’ tyranny? The stars are calling—gear up, pilot. It’s time to save the universe!
 
+![alt text](https://github.com/Runtaozhou/spaceInvader/blob/main/battle_image.png)
+
 ### how to play? 
 
 To get started, follow these simple steps:
